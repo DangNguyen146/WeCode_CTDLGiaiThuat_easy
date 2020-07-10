@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\WeCode_Challent\Assignment-1\ll_p19\Source.cpp(24): warning C4715: 'GetNode': not all control paths return a value
+  ll_p19.vcxproj -> F:\WeCode_Challent\Assignment-1\Debug\ll_p19.exe
